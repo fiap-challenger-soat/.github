@@ -13,7 +13,7 @@ Desafios do Pós-Tech de Software Architecture - Turma 9SOAT
 ## Entregáveis - Fase 1
 
 DDD: https://miro.com/app/board/uXjVLdvIo4o=/ 
-> Senha: SOAT#123
+> Se solicitada senha: SOAT#123
 
 DER: https://miro.com/app/board/uXjVLVtadSg=/
 
