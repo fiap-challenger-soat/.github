@@ -10,7 +10,7 @@ Desafios do Pós-Tech de Software Architecture - Turma 9SOAT
 - Marcus Vinicius de Souza Candido: @marcusvinicius0246
 - Thiago Leandro da Mota: @thiago.mota
 
-## Entragáveis - Fase 1
+## Entregáveis - Fase 1
 
 DDD: https://miro.com/app/board/uXjVLdvIo4o=/ 
 > Senha: SOAT#123
