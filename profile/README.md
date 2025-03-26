@@ -13,12 +13,15 @@ Desafios do Pós-Tech de Software Architecture - Turma 9SOAT
 
 DDD: https://miro.com/app/board/uXjVLdvIo4o=/ 
 > Se solicitada senha: SOAT#123
-
 DER: https://miro.com/app/board/uXjVLVtadSg=/
 
-Repositório projeto: https://github.com/fiap-challenger-soat/fiap-challenger-soat-fastfood
-
+Repositório da Aplicação: https://github.com/fiap-challenger-soat/fiap-challenger-soat-fastfood
 Repositório Infra: 
 - Banco de dados: https://github.com/fiap-challenger-soat/soat-infra-db
 - Kubernates: https://github.com/fiap-challenger-soat/soat-infra-tf-k8s
-- Lambda: https://github.com/fiap-challenger-soat/soat-infra-tf-lambda 
+- Lambda: https://github.com/fiap-challenger-soat/soat-infra-tf-lambda
+
+Desenho AWS: 
+IAC utilizado: Terraform
+![image](https://github.com/user-attachments/assets/d9850ee7-8925-4916-b798-78f07626a28d)
+
