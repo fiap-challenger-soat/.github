@@ -9,7 +9,21 @@ Desafios do Pós-Tech de Software Architecture - Turma 9SOAT
 - Gabriel Gomes do Nascimento: @Gabriel Gomes - RM359140
 - Marcus Vinicius de Souza Candido: @marcusvinicius0246
 
-## Entregáveis 
+## Entregáveis Fase 4 - Microsserviços
+
+### ORDER [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fiap-challenger-soat_order-microservice&metric=alert_status&token=7d80ca0455853840a61de1575a083bf9fa0d862c)](https://sonarcloud.io/summary/new_code?id=fiap-challenger-soat_order-microservice)
+Repositório https://github.com/fiap-challenger-soat/order-microservice
+
+## PAYMENTS [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fiap-challenger-soat_payment-microservice&metric=alert_status&token=abece6b015f52735b649c941549f3cb17b862e85)](https://sonarcloud.io/summary/new_code?id=fiap-challenger-soat_payment-microservice)
+Repositório - https://github.com/fiap-challenger-soat/payment-microservice
+
+## PRODUCTION [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fiap-challenger-soat_production-microservice&metric=alert_status&token=3e5c1bf1636b031a073cb4fb92c5e08219961488)](https://sonarcloud.io/summary/new_code?id=fiap-challenger-soat_production-microservice)
+Repositório - https://github.com/fiap-challenger-soat/production-microservice/tree/main
+
+
+---
+
+## (Encerrado) Entregáveis Fase 1 - 3
 
 DDD: https://miro.com/app/board/uXjVLdvIo4o=/ 
 > Se solicitada senha: SOAT#123
