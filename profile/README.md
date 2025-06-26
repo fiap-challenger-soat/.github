@@ -8,6 +8,7 @@ Desafios do Pós-Tech de Software Architecture - Turma 9SOAT
 - Rita de Cassia Fontenele: @rfont.
 - Gabriel Gomes do Nascimento: @Gabriel Gomes - RM359140
 - Marcus Vinicius de Souza Candido: @marcusvinicius0246
+- Nicolas Castanha Silva do Nascimento: @nicolinhas_ - RM359041
 
 ## Entregáveis Fase 4 - Microsserviços
 
